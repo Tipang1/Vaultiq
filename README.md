@@ -43,7 +43,7 @@ Pour un usage critique, privilégiez des solutions établies comme Bitwarden, Ke
 
 ## 🛠️ Technologies
 
-- Python 3.13 (.5)
+- Python 3.13.5
 - PySide6 (Qt6)
 - cryptography
 
