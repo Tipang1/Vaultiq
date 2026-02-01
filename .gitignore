@@ -216,3 +216,6 @@ data/
 
 # PyInstaller build artifacts (already covered above but being explicit)
 Vaultiq.spec
+
+# IN DEV Files
+indev/
