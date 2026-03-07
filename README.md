@@ -53,4 +53,4 @@ MIT License - Voir [LICENSE](LICENSE)
 
 ## 👤 Auteur
 
-**Tipang** - Projet réalisé dans le cadre du défi "1 mois, 1 app" (Janvier 2026)
+**Tipang** - Projet réalisé dans le cadre du défi ~"1 mois, 1 app"~ "Un mois une fonctionnalité" (2026)
